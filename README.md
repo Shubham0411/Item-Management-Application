@@ -6,4 +6,5 @@ This code shows how ToString() method is used along with the implementatin of In
 # Objective
 We will be providing user input for all the details that are required by different items that include Compuetr Programs, Music Files and Films.
 
-Inventory.cs is the file that contains the code for the above defined objective.
+Program.cs is the file that contains the code for the above defined objective.
+To reach to Program.cs travell the path Inventory/Inventory/Program.cs
