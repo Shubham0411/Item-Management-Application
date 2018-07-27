@@ -97,7 +97,7 @@ namespace Inventory
                 Console.ReadKey();
             }
             
-            for (int i=0;i<f;i++)
+            for (int i=0;i<filmsObject.Length;i++)
             {
                 Films films = new Films();
                 Console.WriteLine(films.ToString());
@@ -109,7 +109,7 @@ namespace Inventory
                 Console.ReadKey();
             }
             
-            for (int i =0;i<1;i++)
+            for (int i =0;i<musicFilesObject.Length;i++)
             {
                 MusicFiles musicFiles = new MusicFiles();
                 Console.WriteLine(musicFiles.ToString());
